@@ -19,7 +19,11 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-mongodb'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	implementation 'com.opencsv:opencsv:4.1'
+	implementation 'com.github.pengrad:java-telegram-bot-api:6.9.1'
+
 }
+
 
 tasks.named('test') {
 	useJUnitPlatform()

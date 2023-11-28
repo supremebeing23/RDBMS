@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "6564f2d5aca45e5c4edc7cd0"
+  },
+  "name": "Автоматики, кібернетики та обчислювальної техніки",
+  "chairs": [
+    {
+      "name": "Комп'ютерних технологій та економічної кібернетики",
+      "code": "247",
+      "phone": "7_76",
+      "specialities": [
+        {
+          "code": "ЕК-11інт",
+          "name": "Економіка (Економічна кібернетика)"
+        },
+        {
+          "code": "ЕК-21інт",
+          "name": "Економіка (Економічна кібернетика)"
+        }
+      ]
+    },
+    {
+      "name": "Обчислювальної техніки",
+      "code": "131",
+      "phone": "9_84",
+      "specialities": []
+    },
+    {
+      "name": "Вищої математики",
+      "code": "124",
+      "phone": "9_85",
+      "specialities": []
+    }
+  ],
+  "_class": "mongodb.mongolabs.persistence.entity.Institute"
+},{
+  "_id": {
+    "$oid": "6564f2d5aca45e5c4edc7cd1"
+  },
+  "name": "Агроекології та землеустрою",
+  "chairs": [
+    {
+      "name": "Землеустрою, кадастру, моніторингу земель та геоінформатики",
+      "code": "758",
+      "phone": "8_75",
+      "specialities": []
+    }
+  ],
+  "_class": "mongodb.mongolabs.persistence.entity.Institute"
+},{
+  "_id": {
+    "$oid": "6564f2d5aca45e5c4edc7cd2"
+  },
+  "name": "Водного господарства та природооблаштування",
+  "chairs": [],
+  "_class": "mongodb.mongolabs.persistence.entity.Institute"
+},{
+  "_id": {
+    "$oid": "6564f2d5aca45e5c4edc7cd3"
+  },
+  "name": "Економіки та менеджменту",
+  "chairs": [
+    {
+      "name": "Економіки підприємства",
+      "code": "255",
+      "phone": "9_35",
+      "specialities": [
+        {
+          "code": "ЕК–11",
+          "name": "Економіка (Економічна кібернетика)"
+        },
+        {
+          "code": "ЕК–21",
+          "name": "Економіка (Економічна кібернетика)"
+        },
+        {
+          "code": "ЕП–41",
+          "name": "Підприємництво, торгівля та біржова діяльність"
+        },
+        {
+          "code": "УПЕП–11",
+          "name": "Економіка (УПЕП)"
+        },
+        {
+          "code": "ФІН–41",
+          "name": "Фінанси, банківська справа та страхування"
+        }
+      ]
+    },
+    {
+      "name": "Економічної теорії",
+      "code": "266",
+      "phone": "9_58",
+      "specialities": []
+    },
+    {
+      "name": "Маркетингу",
+      "code": "275",
+      "phone": "7_52",
+      "specialities": [
+        {
+          "code": "МАР–31інт",
+          "name": "Маркетинг"
+        }
+      ]
+    },
+    {
+      "name": "Менеджменту",
+      "code": "262",
+      "phone": "9_56",
+      "specialities": [
+        {
+          "code": "М–11інт",
+          "name": "Менеджмент"
+        }
+      ]
+    },
+    {
+      "name": "Міжнародної економіки",
+      "code": "272",
+      "phone": "9_75",
+      "specialities": [
+        {
+          "code": "МЕ–31",
+          "name": "Міжнародні економічні відносини"
+        }
+      ]
+    },
+    {
+      "name": "Обліку і аудиту",
+      "code": "240",
+      "phone": "8_84",
+      "specialities": [
+        {
+          "code": "ОА–21інт",
+          "name": "Облік і оподаткування"
+        }
+      ]
+    },
+    {
+      "name": "Трудових ресурсів і підприємництва",
+      "code": "279-б",
+      "phone": "6_51",
+      "specialities": []
+    },
+    {
+      "name": "Фінансів та економіки природокористування",
+      "code": "216",
+      "phone": "8_64",
+      "specialities": []
+    }
+  ],
+  "_class": "mongodb.mongolabs.persistence.entity.Institute"
+},{
+  "_id": {
+    "$oid": "6564f2d5aca45e5c4edc7cd4"
+  },
+  "name": "Будівництва та архітектури",
+  "chairs": [
+    {
+      "name": "Транспортних технологій і технічного сервісу",
+      "code": "335",
+      "phone": "9_20",
+      "specialities": []
+    }
+  ],
+  "_class": "mongodb.mongolabs.persistence.entity.Institute"
+},{
+  "_id": {
+    "$oid": "6564f2d5aca45e5c4edc7cd5"
+  },
+  "name": "Механічний",
+  "chairs": [],
+  "_class": "mongodb.mongolabs.persistence.entity.Institute"
+},{
+  "_id": {
+    "$oid": "6564f2d5aca45e5c4edc7cd6"
+  },
+  "name": "Охорони здоров'я",
+  "chairs": [],
+  "_class": "mongodb.mongolabs.persistence.entity.Institute"
+},{
+  "_id": {
+    "$oid": "6564f2d5aca45e5c4edc7cd7"
+  },
+  "name": "Права",
+  "chairs": [
+    {
+      "name": "Іноземних мов",
+      "code": "227",
+      "phone": "9_86",
+      "specialities": []
+    },
+    {
+      "name": "Українознавства",
+      "code": "213",
+      "phone": "7_88",
+      "specialities": []
+    },
+    {
+      "name": "Філософії",
+      "code": "269",
+      "phone": "8_85",
+      "specialities": []
+    }
+  ],
+  "_class": "mongodb.mongolabs.persistence.entity.Institute"
+}]
